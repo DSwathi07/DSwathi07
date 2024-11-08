@@ -22,7 +22,6 @@
 ## 📫 How to reach me ...
 - Email: swathidronadula1234@gmail.com
 - LinkedIn: [linkedin.com/in/swathi26](https://linkedin.com/in/swathi26)
-- Phone: +91 6305218827
 
 ## 😄 Pronouns: 
 She/Her
@@ -36,9 +35,9 @@ I once developed a street light monitoring system that not only optimized energy
 Java • Python • C++ • SQL • HTML/CSS • JavaScript • DBMS • Algorithms • APIs • Artificial Intelligence • Machine Learning • NLP • IoT • TensorFlow • Scikit-Learn • Flask • Google Cloud • Microcontrollers
 
 ### 🎓 Education
-- B.Tech in Computer Science Engineering, Chalapathi Institute of Engineering & Technology
-- Intermediate (MPC), Sri Chaitanya College of Education
-- SSC, Vani Vidhya Niketan High School
+- B.Tech in Computer Science Engineering.
+- Intermediate (MPC).
+- SSC.
 
 ### 🏆 Certifications
 - HTML and CSS in Depth by META
