@@ -40,6 +40,7 @@ Java • Python • C++ • SQL • HTML/CSS • JavaScript • DBMS • Algorit
 - SSC.
 
 ### 🏆 Certifications
+- PCAP™ – Certified Associate Python Programmer
 - HTML and CSS in Depth by META
 - Microsoft Technology Associate (MTA) Introduction to Programming using Python
 - Architecting with Google Compute Engine
