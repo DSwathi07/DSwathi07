@@ -41,6 +41,7 @@ Java • Python • C++ • SQL • HTML/CSS • JavaScript • DBMS • Algorit
 
 ### 🏆 Certifications
 - PCAP™ – Certified Associate Python Programmer
+- CS50x by Harvard University. 
 - HTML and CSS in Depth by META
 - Microsoft Technology Associate (MTA) Introduction to Programming using Python
 - Architecting with Google Compute Engine
